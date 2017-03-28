@@ -1,0 +1,2 @@
+# domino_def
+MIDIシーケンサDominoの定義ファイル置き場です
